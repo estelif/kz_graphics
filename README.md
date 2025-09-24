@@ -62,8 +62,6 @@ This program has been designed to work on:
 
 ### System Requirements
 
-- **Graphics Card**: Any GPU with OpenGL 3.3+ support
-- **RAM**: Minimal (< 100MB)
 - **Display**: Any resolution (program creates 500x500 window)
 
 ## Visual Output
